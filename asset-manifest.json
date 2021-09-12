@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amazon-behavioral-questions/static/css/main.a617e044.chunk.css",
+    "main.js": "/amazon-behavioral-questions/static/js/main.6ea00f43.chunk.js",
+    "main.js.map": "/amazon-behavioral-questions/static/js/main.6ea00f43.chunk.js.map",
+    "runtime-main.js": "/amazon-behavioral-questions/static/js/runtime-main.0ca9c688.js",
+    "runtime-main.js.map": "/amazon-behavioral-questions/static/js/runtime-main.0ca9c688.js.map",
+    "static/js/2.660f450f.chunk.js": "/amazon-behavioral-questions/static/js/2.660f450f.chunk.js",
+    "static/js/2.660f450f.chunk.js.map": "/amazon-behavioral-questions/static/js/2.660f450f.chunk.js.map",
+    "static/js/3.dab69b04.chunk.js": "/amazon-behavioral-questions/static/js/3.dab69b04.chunk.js",
+    "static/js/3.dab69b04.chunk.js.map": "/amazon-behavioral-questions/static/js/3.dab69b04.chunk.js.map",
+    "index.html": "/amazon-behavioral-questions/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/amazon-behavioral-questions/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.660f450f.chunk.js.LICENSE.txt": "/amazon-behavioral-questions/static/js/2.660f450f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/amazon-behavioral-questions/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ca9c688.js",
+    "static/js/2.660f450f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6ea00f43.chunk.js"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/amazon-behavioral-questions/static/css/main.fa8ce4ff.chunk.css",
+    "main.css": "/amazon-behavioral-questions/static/css/main.dc4b3437.chunk.css",
     "main.js": "/amazon-behavioral-questions/static/js/main.87f5f74c.chunk.js",
     "main.js.map": "/amazon-behavioral-questions/static/js/main.87f5f74c.chunk.js.map",
     "runtime-main.js": "/amazon-behavioral-questions/static/js/runtime-main.e9d992f8.js",
@@ -10,13 +10,13 @@
     "static/js/3.40f294a6.chunk.js": "/amazon-behavioral-questions/static/js/3.40f294a6.chunk.js",
     "static/js/3.40f294a6.chunk.js.map": "/amazon-behavioral-questions/static/js/3.40f294a6.chunk.js.map",
     "index.html": "/amazon-behavioral-questions/index.html",
-    "static/css/main.fa8ce4ff.chunk.css.map": "/amazon-behavioral-questions/static/css/main.fa8ce4ff.chunk.css.map",
+    "static/css/main.dc4b3437.chunk.css.map": "/amazon-behavioral-questions/static/css/main.dc4b3437.chunk.css.map",
     "static/js/2.2575c1ff.chunk.js.LICENSE.txt": "/amazon-behavioral-questions/static/js/2.2575c1ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e9d992f8.js",
     "static/js/2.2575c1ff.chunk.js",
-    "static/css/main.fa8ce4ff.chunk.css",
+    "static/css/main.dc4b3437.chunk.css",
     "static/js/main.87f5f74c.chunk.js"
   ]
 }

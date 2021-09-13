@@ -35,7 +35,7 @@ function App() {
           {questionObject.Q}
         </div>
         <div className="newButtonContainer">
-          <button className="revalButton" onClick={show}>Reval LP</button>
+          <button className="revealButton" onClick={show}>Reveal LP</button>
           <button className="newButton" onClick={() => {show(false); updateQuestion(getNewQuestion())}}>New</button>
         </div>
       </header>

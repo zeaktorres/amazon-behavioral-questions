@@ -1,3 +1,28 @@
+.LPContainerHidden{
+  color: black;
+  background-color:black;
+}
+.QContainer {
+  height: 1em;
+}
+
+.newButtonContainer{
+  height: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.newButton{
+  height: 3em;
+  width: 8em;
+}
+.revalButton{
+  height: 3em;
+  width: 8em;
+}
+
+
+
 .App {
   text-align: center;
 }
